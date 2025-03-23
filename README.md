@@ -5,16 +5,8 @@
   <a href='https://github.com/HugoSilva05' target="_blank">
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=HugoSilva05&show_icons=true&theme=dark'/>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSilva05&langs_count=8&theme=dark'/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt=Hugo-HTML height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-  <img align="center" alt=Hugo-CSS height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-  <img align="center" alt=Hugo-JS height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  <img align="center" alt=Hugo-Java height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
   </a>
 </div>
-
 ##
 
 <div>
