@@ -1,4 +1,4 @@
-### Olá, eu sou Hugo Silva e você é bem vindo(a) ao meu github!
+### Hi, I'm Hugo Silva and you are welcome to my github!
 ##
 
 <div>
